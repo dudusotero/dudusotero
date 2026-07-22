@@ -42,4 +42,4 @@ Core Web Vitals · WCAG 2.2 · Claude Code
 ---
 
 <sub>Open to Senior and Staff frontend roles with US teams. The fastest way to reach me is
-<a href="mailto:eduardoliberatosotero@gmail.co">email</a>.</sub>
+<a href="mailto:eduardoliberatosotero@gmail.com">email</a>.</sub>
